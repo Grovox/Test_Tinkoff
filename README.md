@@ -12,7 +12,9 @@
 100;300
 Выходные данные:
 16.0
+
 Изначальный код:
+
 import java.io.*;
 import java.util.*;
 import java.lang.*;
