@@ -19,8 +19,7 @@
 `import java.util.*;
 `import java.lang.*;
 
-class CalculateSum
-{
+`class CalculateSum{
     public static void main(String args[])
     {
         BufferedReader inputDataBR = new BufferedReader(new InputStreamReader(System.in));
