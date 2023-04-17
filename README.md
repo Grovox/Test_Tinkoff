@@ -29,8 +29,8 @@ import java.lang.*;
         List<Double> purchases = TCupUtil.getDoubles(inputDataBR);
 
         double sum = 0;
-        for (int i = 0; i < purchases.size(); i+=2) {
-            sum = sum + purchases.get(i) * persents.get(i+1);
+        for (int i = 0; i < purchases.size(); i++) {
+            sum = sum + purchases.get(i) * persents.get(i++);
         }
         System.out.println(sum);
     }
