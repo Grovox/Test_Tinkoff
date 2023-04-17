@@ -1,4 +1,4 @@
-#Это заддания от тинькофф на первом этапе Tinkoff Solution Cup. Backend.
+# Это заддания от тинькофф на первом этапе Tinkoff Solution Cup. Backend.
 ##Первое задание
 Калькулятор кэшбэка 🤑
 Текст задачи
@@ -15,9 +15,9 @@
 
 Изначальный код:
 
-`import java.io.*;
-`import java.util.*;
-`import java.lang.*;
+` import java.io.*;
+` import java.util.*;
+` import java.lang.*;
 
 `class CalculateSum{
     public static void main(String args[])
