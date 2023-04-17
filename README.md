@@ -365,7 +365,7 @@ public class Filter {
 | clientId	| уникальный идентификатор пользователя	| UUID, NOT NULL |
 | addressId	| уникальный идентификатор адреса пользователя	| UUID, NOT NULL |
 | creationTime	| время создания продукта | ISO, со смещением (см. пример), NOT NULL |
-* Формат выходного стрима встреч (System.out): *
+*Формат выходного стрима встреч (System.out):*
  ```
 {
   "meetings": [
